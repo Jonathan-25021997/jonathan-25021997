@@ -20,7 +20,7 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 🔗 https://www.linkedin.com/in/jonathanavs/
 
 <p 
-  margin-left: 100px>
+  margin-left: 100>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
