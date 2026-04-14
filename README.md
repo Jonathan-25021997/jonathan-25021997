@@ -19,7 +19,7 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 📧 jonathanalexandrev@gmail.com <br>
 🔗 https://www.linkedin.com/in/jonathanavs/
 
-<p align="right">
+<p display: flex;>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
