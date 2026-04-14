@@ -14,8 +14,9 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 
 🚀 Buscando oportunidade de estágio ou posição júnior em Cibersegurança para desenvolver habilidades técnicas e contribuir com a segurança da informação.
 
-📫 Contato
-📧 jonathanalexandrev@gmail.com
+📫 Contato 
+<br>
+📧 jonathanalexandrev@gmail.com <br>
 🔗 https://www.linkedin.com/in/jonathanavs/
 
 <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
