@@ -19,6 +19,24 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 📧 jonathanalexandrev@gmail.com <br>
 🔗 https://www.linkedin.com/in/jonathanavs/
 
+<p align="right">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      width="500"
+    />
+  </picture>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -60,20 +78,4 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 <br>
 <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
 
-<p align="justify">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      width="500"
-    />
-  </picture>
-</p>
+
