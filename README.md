@@ -4,20 +4,12 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 📍 São Bernardo do Campo - SP
-💡 Interessado em Cibersegurança, Análise de Dados e Automação
+💡 Interessado em Cibersegurança e T.I
 
 📫 Contato
 
 📧 jonathanalexandrev@gmail.com
 🔗 https://www.linkedin.com/in/jonathanavs/
-
-🚀 Sobre mim
-
-Sou um profissional em início de carreira na área de Tecnologia da Informação, com foco em desenvolvimento contínuo e aprendizado constante. Tenho experiência prática em monitoramento de sistemas, análise de dados e tratamento de incidentes, atuando diretamente na identificação de falhas e melhoria de processos.
-
-Tenho perfil analítico, gosto de resolver problemas complexos e busco sempre soluções eficientes, principalmente voltadas para segurança da informação e automação.
-
-Atualmente, estou em busca de oportunidades para evoluir tecnicamente e contribuir com projetos desafiadores na área de tecnologia.
 
 <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
 
