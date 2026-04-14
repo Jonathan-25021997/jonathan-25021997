@@ -9,7 +9,10 @@
 📍 São Bernardo do Campo - SP
 💡 Interessado em Cibersegurança, Análise de Dados e Automação
 
+📫 Contato
 
+📧 jonathanalexandrev@gmail.com
+🔗 https://www.linkedin.com/in/jonathanavs/
 
 ---
 
