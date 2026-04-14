@@ -19,6 +19,7 @@ Tenho perfil analítico, gosto de resolver problemas complexos e busco sempre so
 
 Atualmente, estou em busca de oportunidades para evoluir tecnicamente e contribuir com projetos desafiadores na área de tecnologia.
 
+<img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="400px">
 
 ---
 
