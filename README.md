@@ -32,7 +32,7 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
     <img
       alt="github contribution grid snake animation"
       src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      writh="500"  
+      width="500"  
   >
   </picture>
 
