@@ -57,5 +57,7 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
+<br>
+<br>
 <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
 
