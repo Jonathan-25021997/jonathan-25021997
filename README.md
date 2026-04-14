@@ -1,5 +1,3 @@
-## Jonathan
-
 # 👩🏻‍💻 Jonathan Alexandre
 
 **`SOC Analyst (em desenvolvimento) | Monitoramento de Segurança | Incident Response | SIEM | Análise de Logs | Python`**
