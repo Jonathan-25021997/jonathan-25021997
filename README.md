@@ -1,5 +1,4 @@
-# <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="40"/>
- Jonathan Alexandre
+# <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="40"/> Jonathan Alexandre
 
 **`SOC Analyst (em desenvolvimento) | Monitoramento de Segurança | SIEM | Análise de Logs | Python | Análise de Dados`**
 
