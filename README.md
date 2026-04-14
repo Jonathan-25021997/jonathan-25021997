@@ -19,8 +19,6 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 📧 jonathanalexandrev@gmail.com <br>
 🔗 https://www.linkedin.com/in/jonathanavs/
 
-<img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -58,4 +56,6 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
 
