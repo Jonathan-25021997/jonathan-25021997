@@ -59,10 +59,7 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 <br>
 <br>
 <img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="180"/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N1dnU4OHR5eXE3Yjc5NHFidzZ0ZHdoOHpvNXUyZDV3eDRlZzk2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" height="180"/>
 
-
-# snk
 
 <picture>
   <source
