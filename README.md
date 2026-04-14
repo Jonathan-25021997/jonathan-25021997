@@ -39,6 +39,6 @@ Tenho experiência com monitoramento de sistemas, análise de dados e investiga�
 
 <br>
 <br>
-<img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="60"/>
+<img src="https://media1.tenor.com/m/S0UZA8gkgkgAAAAC/laptop-hacking.gif" width="40"/>
 
 
