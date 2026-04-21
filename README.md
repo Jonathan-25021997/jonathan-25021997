@@ -2,8 +2,13 @@
 
 **`SOC Analyst (em desenvolvimento) | Monitoramento de Segurança | SIEM | Análise de Logs | Python | Análise de Dados`**
 
-👨‍💻 Profissional em início de carreira na área de Tecnologia da Informação, com formação em Análise e Desenvolvimento de Sistemas.
-Tenho experiência com monitoramento de sistemas, análise de dados e investigação de incidentes, atuando na identificação de falhas, análise de causa raiz e mitigação de riscos operacionais.
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas com experiência em
+monitoramento de sistemas, análise de incidentes e suporte técnico em ambiente
+NOC. Atuação com identificação de falhas, análise de causa raiz (RCA) e suporte à
+operação de sistemas críticos.
+Conhecimentos em SQL, Excel e análise de dados para tomada de decisão.
+Interesse em áreas de Cibersegurança, Suporte Técnico, Infraestrutura e Análise de
+Dados.
 
 🎯 Interesses:
 - Cibersegurança (SOC, SIEM, análise de logs)
